@@ -5,11 +5,12 @@
 
 <!-- Here are some ideas to get you started: -->
 🌱I'm a forestry engineer and currently I'm learning programming and English.
+😄 I'm an unmanned aerial vehicle pilot.
 - 🔭 I’m currently working on SIESA, Flytric, helps farmers.
 - 🌱 I’m currently learning JavaScript
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Fotogrametría, Mongo, JS, Python, Java.
+- 💬 Ask me about photogrammetry, UAS, Mongo, JS, Python, Java.
 - 📫 How to reach me: dronesflytric@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
