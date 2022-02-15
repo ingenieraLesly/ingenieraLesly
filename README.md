@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JavaScript
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Fotogrametría, Mongo, JS
+- 💬 Ask me about Fotogrametría, Mongo, JS, Python, Java.
 - 📫 How to reach me: dronesflytric@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
