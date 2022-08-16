@@ -8,7 +8,7 @@
 
 😄 I'm an unmanned aerial vehicle pilot.
 - 🔭 I’m currently working on SIESA and in my entrepreneurship: FLYTRIC and helps farmers.
-- 🌱 I’m currently learning SQL, XML, VB, JavaScript.
+- 🌱 I’m currently learning SQL, XSL, XML, VB, JavaScript.
 - 💬 Ask me about photogrammetry, UAS, Mongo, JS, Python, Java.
 - 📫 How to reach me: dronesflytric@gmail.com
 <!-- - 👯 I’m looking to collaborate on ... -->
