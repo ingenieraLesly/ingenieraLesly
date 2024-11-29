@@ -52,7 +52,7 @@ I specialize in building scalable, secure, and efficient software solutions, lev
 ---
 
 ## **Let's Connect**
-- 📫 Email: **dronesflytric@gmail.com**  
+- 📫 Email: **ingenieralesly@gmail.com**  
 - 🔗 LinkedIn: [Lesly Aguilar](https://www.linkedin.com/in/lesly-flytric/)  
 - 🌍 Location: Colombia  
 
