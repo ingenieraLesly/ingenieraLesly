@@ -1,7 +1,3 @@
-Dado lo que me compartiste sobre tu situación actual, tus habilidades en GitHub y tu CV, aquí está una descripción actualizada que refleja tu experiencia, proyectos y tu situación académica. Este texto está diseñado para transmitir profesionalismo, resiliencia y potencial, elementos atractivos para las empresas:
-
----
-
 # **Hi there 👋 I'm Lesly!**
 
 🌱 I'm a Forestry Engineer transitioning into the tech industry as a **Full Stack Developer**. My journey is driven by a passion for problem-solving and creating impactful software solutions. With a strong foundation in engineering, technology, and programming, I'm eager to contribute to innovative projects and continue learning.
@@ -66,7 +62,3 @@ I specialize in building scalable, secure, and efficient software solutions, lev
 - **Versatile Background:** Transitioned successfully from forestry engineering to software development, combining practical problem-solving skills with technical expertise.  
 - **Proven Skills:** Delivered projects in .NET Core, MongoDB, and JavaScript, focusing on scalability and efficiency.  
 - **Resilient Learner:** Despite financial challenges, I consistently excel academically and professionally, driven by a passion for technology and growth.
-
----
-
-Con esta versión, no solo destacas tus habilidades técnicas, sino que también muestras tu resiliencia y compromiso. Esto resonará con empresas que valoran el esfuerzo y el potencial. Si necesitas ajustar algo, ¡házmelo saber! 😊
