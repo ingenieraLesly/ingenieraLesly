@@ -1,5 +1,5 @@
 Hi there 👋 I'm Lesly!  
-🌱 I'm a Forestry Engineer transitioning into the tech industry as a **Full Stack Developer**. With **3 years of professional experience** (as of January 17, 2025), I have a strong foundation in software development, problem-solving, and creating impactful solutions. My journey is driven by a passion for technology and continuous learning.
+🌱 I'm a Forestry Engineer transitioning into the tech industry as a **Full Stack Developer**. With **3 years of professional experience**, I have a strong foundation in software development, problem-solving, and creating impactful solutions. My journey is driven by a passion for technology and continuous learning.
 
 ### **Professional Experience**
 - **Software Developer at SIESA** (January 2022 - December 2024):  
