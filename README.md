@@ -1,64 +1,34 @@
-# **Hi there 👋 I'm Lesly!**
+Hi there 👋 I'm Lesly!  
+🌱 I'm a Forestry Engineer transitioning into the tech industry as a **Full Stack Developer**. With **3 years of professional experience** (as of January 17, 2025), I have a strong foundation in software development, problem-solving, and creating impactful solutions. My journey is driven by a passion for technology and continuous learning.
 
-🌱 I'm a Forestry Engineer transitioning into the tech industry as a **Full Stack Developer**. My journey is driven by a passion for problem-solving and creating impactful software solutions. With a strong foundation in engineering, technology, and programming, I'm eager to contribute to innovative projects and continue learning.
+### **Professional Experience**
+- **Software Developer at SIESA** (January 2022 - December 2024):  
+  - Worked on enterprise-level solutions, developing scalable and efficient software applications.  
+  - Gained hands-on experience with **.NET Core**, **C#**, **SQL Server**, and **RESTful APIs**.  
+  - Collaborated in agile teams using **Scrum** methodologies to deliver high-quality projects on time.  
 
----
+- **Entrepreneur at FLYTRIC**:  
+  - Integrated **UAVs** and **photogrammetry** to help farmers adopt precision agriculture technologies.  
+  - Developed solutions that combined hardware and software for data analysis and mapping.  
 
-## **About Me**
-- 🔭 **Current Roles:**
-  - Software Developer at **SIESA**, working on enterprise-level solutions.
-  - Entrepreneur at **FLYTRIC**, integrating UAVs and photogrammetry to help farmers adopt precision agriculture technologies.
-- 📚 **Academic Path:**  
-  I recently began studying **Computer Engineering**, achieving excellent grades. Unfortunately, due to financial constraints, I might not be able to continue, but I remain committed to self-learning and professional development.
-- 💻 **Technical Skills:**  
-  **Backend:** .NET Core, C#, Python, SQL Server, MongoDB  
-  **Frontend:** JavaScript, TypeScript, Angular, Bootstrap  
-  **Tools:** Git, REST APIs, UAV mapping, Shell scripting
+### **Technical Skills**
+- **Backend:** .NET Core, C#, Python, SQL Server, MongoDB  
+- **Frontend:** JavaScript, TypeScript, Angular, Bootstrap, Tailwind CSS  
+- **Tools:** Git, GitHub, REST APIs, Shell scripting, Azure (as a repository)  
+- **Methodologies:** Agile (Scrum), Clean Architecture, Microservices  
 
----
+### **What I Can Offer**
+- **Proven Track Record:** Delivered multiple projects at SIESA, focusing on scalability, security, and efficiency.  
+- **Adaptability:** Successfully transitioned from forestry engineering to software development, combining analytical thinking with technical expertise.  
+- **Continuous Learner:** Despite challenges, I consistently upskill myself to stay updated with the latest technologies.  
 
-## **My GitHub Highlights**
-Here are some of my key projects that showcase my skills:
+### **My GitHub Highlights**
+Here are some of my key projects that showcase my skills:  
+- **[APITarjetas](https://github.com/ingenieraLesly/APITarjetas):** A payment authorization and management system built with .NET Core.  
+- **[Economic Management NET](https://github.com/ingenieraLesly/EconomicMangamentNET):** A financial management application for small businesses.  
+- **[MongoVet](https://github.com/ingenieraLesly/MongoVet):** A veterinary service app leveraging MongoDB and Node.js.  
 
-### **[APITarjetas](https://github.com/ingenieraLesly/APITarjetas)**  
-A **payment authorization and management system** built with .NET Core.  
-**Features:**  
-- Virtual card creation with balance inquiries.  
-- Secure payment processing with dynamic fee calculation.  
-- Scalable architecture for e-commerce and other financial applications.
-
----
-
-### **Economic Management NET**  
-A financial management application designed for small businesses.  
-**Highlights:**  
-- Developed using .NET Core and Dapper for efficient data handling.  
-- Implements Claims-based security for user authentication.  
-- Modular design for easy scalability and integration.
-
----
-
-### **MongoVet**  
-A veterinary service app leveraging MongoDB and Node.js.  
-**What I learned:**  
-- CRUD operations for NoSQL databases.  
-- Designing scalable backends with clean architecture principles.  
-
----
-
-## **What I Can Offer**
-I specialize in building scalable, secure, and efficient software solutions, leveraging my diverse background in engineering and technology. My ability to learn quickly, work under challenging circumstances, and deliver impactful results makes me a valuable addition to any team.
-
----
-
-## **Let's Connect**
-- 📫 Email: **ingenieralesly@gmail.com**  
-- 🔗 LinkedIn: [Lesly Aguilar](https://www.linkedin.com/in/lesly-flytric/)  
-- 🌍 Location: Colombia  
-
----
-
-## **Why Choose Me?**
-- **Versatile Background:** Transitioned successfully from forestry engineering to software development, combining practical problem-solving skills with technical expertise.  
-- **Proven Skills:** Delivered projects in .NET Core, MongoDB, and JavaScript, focusing on scalability and efficiency.  
-- **Resilient Learner:** Despite financial challenges, I consistently excel academically and professionally, driven by a passion for technology and growth.
+### **Let's Connect**
+- 📫 **Email:** ingenieralesly@gmail.com  
+- 🔗 **LinkedIn:** [Lesly Aguilar](https://www.linkedin.com/in/lesly-flytric)  
+- 🌍 **Location:** Colombia  
